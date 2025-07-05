@@ -6,13 +6,20 @@
 
 ## 💼 About Me
 
-I'm a detail-oriented aspiring data analyst with hands-on experience in **Python**, **Power BI**, **SQL**, and **Excel**. I enjoy transforming raw data into meaningful business insights using clean visualizations and sound logic. My academic background and internship experience have equipped me to explore real-world data problems and deliver impactful solutions.
+Aspiring Analyst with hands-on experience in *SQL*, *Power BI*, *Python*, and *Excel*. Developed interactive
+dashboards and conducted full circle data analysis on datasets exceeding 10,000+ records. Proficient in
+translating complex datasets into business insights using tools like Power BI and SQL for data storytelling and
+decision support. Quick to learn and adapt to new technologies and tools.
 
-## Technical Skills
+## Technical Skills 
 
-- Languages & Tools: Python, SQL, DAX, Power Query, Jupyter Notebook, Microsoft Excel  
-- Data Analytics: Data Cleaning, Data Visualization, Dashboard Design, Storytelling with Data, Pivot Tables and Charting, KPIs 
-- Others: Web Scraping, Exploratory Data Analysis, Basic understanding of IoT sensors and machine learning concepts, Strong analytical thinking, Problem-Solving
+- Programming: Python, R, SQL(Joins, Subqueries, Window Functions)
+- Frameworks: Pandas, NumPy, Matplotlib
+- Tools: Excel, Power BI(DAX, KPIs, Power Query), Tableau, Google Sheets, MySQL, Power Point
+- Platforms: Jupyter Notebook, Visual Studio Code, Python IDLE
+- Data Analytics: Data Cleaning, Data Transformation, Statistical Analysis, Web Scraping, Data Visualization, Pivot                     Tables and Charting, Storytelling with Data, Dashboard Design, Exploratory Data Analysis(EDA)
+- Soft Skills: Communication, Team Collaboration, Business Acumen, Problem Solving, KPI Creation
+- Basic understanding of IoT sensors and machine learning concepts
 
 ## 📊 Featured Projects
 
