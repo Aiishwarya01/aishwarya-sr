@@ -53,5 +53,7 @@ Data storytelling project on e-commerce trends using Power BI and SQL for a 12-m
 
 - 💼 [LinkedIn](https://linkedin.com/in/aishwarya-sr-)  
 - 📧 Email: aishwaryasr097@gmail.com  
-
-_“Turning data into decisions.”_
+- 🔗 [GitHub](https://github.com/Aiishwarya01)
+  
+_"Without data, you're just another person with an opinion."
+                                                  — W. Edwards Deming_
